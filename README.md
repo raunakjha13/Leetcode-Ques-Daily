@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0078-subsets) |
+| [0283-move-zeroes](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

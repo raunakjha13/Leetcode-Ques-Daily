@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0283-move-zeroes) |
@@ -30,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

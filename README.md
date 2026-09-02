@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0078-subsets) |
 ## Binary Search
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

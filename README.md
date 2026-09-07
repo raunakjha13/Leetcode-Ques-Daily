@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0643-maximum-average-subarray-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0029-divide-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

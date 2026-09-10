@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0643-maximum-average-subarray-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
@@ -59,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0713-subarray-product-less-than-k) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

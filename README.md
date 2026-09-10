@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0643-maximum-average-subarray-i) |
 ## Backtracking
 |  |

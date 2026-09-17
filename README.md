@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer

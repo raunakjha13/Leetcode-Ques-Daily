@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
@@ -97,8 +98,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0070-climbing-stairs) |
+| [0518-coin-change-ii](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0518-coin-change-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->

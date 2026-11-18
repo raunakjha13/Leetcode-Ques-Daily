@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/raunakjha13/Leetcode-Ques-Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
